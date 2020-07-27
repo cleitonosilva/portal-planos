@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+.po-dropdown-button {
+  border: none !important;
+  margin-left: 15px;
+  list-style: none;
+}
+.po-dropdown-button:focus {
+  border: none !important;
+}
+
+.po-font-text {
+  color: white;
+  padding: 0px;
+}
